@@ -1,0 +1,18 @@
+npm init -y
+
+add type: "module"
+
+npm install cloudinary cors dotenv express mongoose nodemon
+
+add inside scripts 
+ "start": "nodemon index"
+
+add index.js
+
+
+
+
+mongodb:
+yariga
+cjohnguipo
+9ykdDvzUuWToR5cs

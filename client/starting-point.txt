@@ -1,0 +1,11 @@
+npm create refine-app@latest client
+y
+Template choose: refine (CRA)
+> rest api
+> material ui
+example pages: yes
+
+
+
+npm install apexcharts react-apexcharts
+
